@@ -30,5 +30,12 @@ Future plans include:
 * Adding more comprehensive documentation and examples.
 * Potentially incorporating a programming language (e.g., Python, JavaScript) and demonstrating basic program execution.
 
+## Contributing
 
+Contributions are welcome! Please feel free to fork this repository and submit pull requests.  For major changes, please open an issue first to discuss what you would like to change.
+
+
+## License
+
+[Choose a license - e.g., MIT License](https://opensource.org/licenses/MIT)
 ```
