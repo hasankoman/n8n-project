@@ -1,32 +1,33 @@
 ```markdown
 # Merhaba Dünya Project
 
-This project is currently very rudimentary and only contains the phrase "Merhaba Dünya" (Hello World in Turkish).  Further details will be added as the project develops.
-
+This project serves as a starting point and currently displays the phrase "Merhaba Dünya" (Hello World in Turkish).  It is intended to be expanded upon in the future to demonstrate more complex concepts and functionality.
 
 ## Project Structure
 
-The project currently consists of only one file:
+The project currently has a very simple structure:
 
-* `README.md`: This file.
-
+* `README.md`: This file, providing project documentation.
 
 ## Tech Stack & Dependencies
 
-This project currently has no dependencies beyond a text editor capable of handling Markdown files.
-
+Currently, no external dependencies are required.  The project only requires a text editor capable of handling Markdown files.
 
 ## Installation & Setup
 
-No installation is required.  The project is a single file.
-
+No installation is needed.  The project consists of a single file (`README.md`).  To view the project, simply open this file in a text editor or Markdown viewer.
 
 ## Usage Guide
 
-The project currently only displays the phrase \"Merhaba Dünya\".  Future iterations will expand on this basic functionality.
-
+At present, the project's functionality is limited to displaying the phrase "Merhaba Dünya".  Further functionality will be added in future iterations.
 
 ## Future Development
 
-Future plans include expanding this project to demonstrate more complex concepts and functionality.  Specific plans will be outlined in future updates to this README file.
+Future plans include:
+
+* Expanding the project to demonstrate more advanced programming concepts.
+* Implementing new features and functionalities.
+* Adding more comprehensive documentation and examples.
+
+
 ```
