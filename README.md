@@ -1,7 +1,7 @@
 ```markdown
 # Merhaba Dünya Project
 
-This project serves as a simple starting point, currently displaying the phrase "Merhaba Dünya" (Hello World in Turkish).  It's designed to be easily expanded upon to demonstrate more complex concepts and functionality.
+This project serves as a simple starting point, currently displaying the phrase "Merhaba Dünya" (Hello World in Turkish). It's designed to be easily expanded upon to demonstrate more complex concepts and functionality.
 
 ## Project Structure
 
@@ -19,8 +19,7 @@ No installation is needed. The project consists of a single `README.md` file. To
 
 ## Usage Guide
 
-At present, the project's functionality is limited to displaying the phrase "Merhaba Dünya".  Further functionality will be added in future iterations.
-
+At present, the project's functionality is limited to displaying the phrase "Merhaba Dünya". Further functionality will be added in future iterations.
 
 ## Future Development
 
