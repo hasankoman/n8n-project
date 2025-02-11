@@ -1,7 +1,7 @@
 ```markdown
 # Merhaba Dünya Project
 
-This project serves as a simple starting point, currently displaying the phrase "Merhaba Dünya" (Hello World in Turkish). It's designed to be expanded upon to demonstrate more complex concepts and functionality.
+This project serves as a simple starting point, currently displaying the phrase "Merhaba Dünya" (Hello World in Turkish).  It's designed to be easily expanded upon to demonstrate more complex concepts and functionality.
 
 ## Project Structure
 
@@ -19,7 +19,7 @@ No installation is needed. The project consists of a single `README.md` file. To
 
 ## Usage Guide
 
-At present, the project's functionality is limited to displaying the phrase "Merhaba Dünya".  Further functionality will be added in future iterations.
+At present, the project's functionality is limited to displaying the phrase "Merhaba Dünya". Further functionality will be added in future iterations.
 
 ## Future Development
 
@@ -32,10 +32,9 @@ Future plans include:
 
 ## Contributing
 
-Contributions are welcome! Please feel free to fork this repository and submit pull requests.  For major changes, please open an issue first to discuss what you would like to change.
-
+Contributions are welcome! Please feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.  Please follow standard Git branching conventions (e.g., create a new branch for your changes).
 
 ## License
 
-[Choose a license - e.g., MIT License](https://opensource.org/licenses/MIT)
+[MIT License](https://opensource.org/licenses/MIT)
 ```
