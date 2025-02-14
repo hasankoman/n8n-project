@@ -1,6 +1,6 @@
 # n8n-project
 
-A project built using n8n, a workflow automation tool.  This project's purpose and key features will be detailed here as development progresses.
+A workflow automation project built using n8n.  This project's purpose and key features will be detailed here as development progresses.
 
 
 ## Features & Key Functionalities
@@ -15,7 +15,12 @@ The project currently consists of a single `README.md` file. As the project expa
 
 ## Tech Stack & Dependencies
 
-*This section will be updated with a list of the project's technologies and dependencies, including versions, once the project's development is further along.*  Currently, it is assumed that `n8n` and `node.js` (with `npm`) are utilized.
+| Technology       | Version | Description                                   |
+|-----------------|---------|-----------------------------------------------|
+| n8n              |  (To be determined) | Workflow automation tool                      |
+| Node.js          |  (To be determined) | JavaScript runtime environment                |
+| npm              |  (To be determined) | Node Package Manager                           |
+| *(Add more)*     |         |                                               |
 
 
 ## Installation & Setup
