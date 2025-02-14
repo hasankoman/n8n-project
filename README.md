@@ -1,6 +1,6 @@
 # n8n-project
 
-A comprehensive description of this project is currently unavailable.  Please update this section with a concise and informative overview of the project's purpose and key features.
+A project built using n8n, a workflow automation tool.  This project's purpose and key features will be detailed here as development progresses.
 
 
 ## Features & Key Functionalities
@@ -10,12 +10,12 @@ A comprehensive description of this project is currently unavailable.  Please up
 
 ## Project Structure
 
-The project currently consists of a single `README.md` file.  As the project expands, this section will be updated with a more detailed overview of the directory structure, including descriptions of each component.
+The project currently consists of a single `README.md` file. As the project expands, this section will be updated with a more detailed overview of the directory structure, including descriptions of each component.
 
 
 ## Tech Stack & Dependencies
 
-*This section will be updated with a list of the project's technologies and dependencies, including versions, once the project's development is further along.*
+*This section will be updated with a list of the project's technologies and dependencies, including versions, once the project's development is further along.*  Currently, it is assumed that `n8n` and `node.js` (with `npm`) are utilized.
 
 
 ## Installation & Setup
@@ -49,7 +49,7 @@ npm run dev
 
 ## Usage Guide
 
-*Detailed usage instructions will be provided here as the project progresses and features are implemented.*  For now,  the `npm run dev` command starts the development server.  Further instructions will be added as the project develops.
+*Detailed usage instructions will be provided here as the project progresses and features are implemented.* For now, the `npm run dev` command starts the development server. Further instructions will be added as the project develops.
 
 
 ## API Documentation
