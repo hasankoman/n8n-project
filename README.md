@@ -1,6 +1,6 @@
 # n8n-project
 
-A workflow automation project built using n8n.  This project automates [briefly describe what this project automates].
+A workflow automation project built using n8n.  This project automates [briefly describe what this project automates].  Further details on features and functionality will be added as the project progresses.
 
 
 ## Features & Key Functionalities
@@ -13,7 +13,7 @@ A workflow automation project built using n8n.  This project automates [briefly 
 
 ## Project Structure
 
-The project currently consists of a single `README.md` file. As the project expands, this section will be updated with a more detailed overview of the directory structure, including descriptions of each component.
+The project currently consists of a single `README.md` file.  As the project expands, this section will be updated with a more detailed overview of the directory structure, including descriptions of each component.
 
 
 ## Tech Stack & Dependencies
@@ -80,3 +80,7 @@ Contributions are welcome! Please follow these guidelines:
 ## License Information
 
 *The license for this project is currently unspecified. This section will be updated with appropriate license information (e.g., MIT, GPL) once determined.*
+
+## Author
+
+Hasan Koman ([GitHub](https://github.com/hasankoman))
