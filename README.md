@@ -1,7 +1,6 @@
 # n8n-project
 
-A workflow automation project built using n8n. This project automates [briefly describe what this project automates].  Further details on features and functionality will be added as the project progresses.
-
+A workflow automation project built using n8n.  This project automates [briefly describe what this project automates].
 
 ## Features & Key Functionalities
 
@@ -13,7 +12,7 @@ A workflow automation project built using n8n. This project automates [briefly d
 
 ## Project Structure
 
-The project currently consists of a single `README.md` file. As the project expands, this section will be updated with a more detailed overview of the directory structure, including descriptions of each component.
+The project currently consists of a single `README.md` file.  As the project expands, this section will be updated with a more detailed overview of the directory structure, including descriptions of each component.
 
 
 ## Tech Stack & Dependencies
