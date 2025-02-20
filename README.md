@@ -1,6 +1,6 @@
 # n8n-project
 
-A workflow automation project built using n8n.  This project automates [briefly describe what this project automates].
+A workflow automation project built using n8n workflow.  This project automates [briefly describe what this project automates].
 
 ## Features & Key Functionalities
 
