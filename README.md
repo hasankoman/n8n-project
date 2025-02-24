@@ -7,7 +7,7 @@ This project is a clone of the BrandColors website, a comprehensive collection o
 
 ## Technologies Used
 
-* **Frontend:** React, React Router DOM, React Modal, React Clipboard.js, React Content Loader, React LazyLoad, Sass, Font Awesome
+* **Frontend:** React, React Router DOM, React Modal, React Clipboard.js, React Content Loader, Readsadadct LazyLoad, Sass, Font Awesome
 * **Styling:** SCSS
 * **Others:** JSON (for brand data), GitHub Pages (for deployment)
 
