@@ -12,7 +12,7 @@ This project is a clone of the BrandColors website, a comprehensive collection o
 * **Others:** JSON (for brand data), GitHub Pages (for deployment)
 
 ## Installation
-
+dsada
 1. **Clone the repository:**
 
 ```bash
