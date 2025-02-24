@@ -1,13 +1,19 @@
-## Brand Color Clone
+```markdown
+# Brand Color Clone
 
 ## Project Description
 
 This project is a clone of the BrandColors website, a comprehensive collection of official brand color codes. It allows users to browse and search for brand colors, select colors to create a custom palette, and download the palette in CSS, SCSS, or LESS format. This clone provides a user-friendly interface for accessing and managing brand color information.
 
 
-## Usage
+## Technologies Used
 
-### Installation
+* **Frontend:** React, React Router DOM, React Modal, React Clipboard.js, React Content Loader, React LazyLoad, Sass, Font Awesome
+* **Styling:** SCSS
+* **Others:** JSON (for brand data), GitHub Pages (for deployment)
+
+
+## Installation
 
 1. **Clone the repository:**
 
@@ -29,7 +35,36 @@ npm install
 
 Node.js and npm version requirements are defined in the `package.json` file.
 
-### Running the Application
+
+## Project Structure
+
+The project follows a standard React application structure:
+
+* **`public/`:** Contains static assets like `index.html`, `favicon.ico`, and other images used by the application.
+* **`src/`:** Contains the source code of the application.
+
+    * **`src/App.js`:** The main application component. This is the root component and handles routing.
+    * **`src/MainContext.js`:** Provides a context API for sharing state across components.
+    * **`src/brands.json`:** A large JSON file containing data for different brands and their colors.
+    * **`src/components/`:** Contains various UI components:
+        * `Brand.js`
+        * `Collection.js`
+        * `CollectionBar.js`
+        * `Content.js`
+        * `Copied.js`
+        * `Download.js`
+        * `Loader.js`
+        * `Piece.js`
+        * `PieceBrandBar.js`
+        * `SearchBar.js`
+        * `Sidebar.js`
+    * **`src/helpers.js`:** Contains utility functions such as `getContrastYIQ`.
+    * **`src/index.js`:** The entry point for the React application.
+    * **`src/index.scss`:** Contains the global styling for the application.
+
+
+
+## Running the Application
 
 1. **Start the development server:**
 
@@ -63,3 +98,4 @@ Code style and formatting should follow the existing conventions within the proj
 ## License
 
 [Specify the license here, e.g., MIT License]
+```
