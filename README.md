@@ -3,7 +3,7 @@
 
 ## Project Description
 
-This project is a clone of the BrandColors website, a comprehensive collection of official brand color codes. It allows users to browse and search for brand colors, select colors to create a custom palette, and download the palette in CSS, SCSS, or LESS format. This clone provides a user-friendly interface for accessing and managing brand color information.
+This project is a clone of the BrandColors website, a comprehensive collection of official brand color codes.  It allows users to browse and search for brand colors, select colors to create a custom palette, and download the palette in CSS, SCSS, or LESS format. This clone provides a user-friendly interface for accessing and managing brand color information.
 
 ## Technologies Used
 
